@@ -26,10 +26,10 @@ In your project's `requirements.txt`:
 
 ```
 # 1.x lineage (LambdaExpt experiments)
-chdh-simpledb @ git+https://github.com/bens/simpledb.git@v1.0.0
+chdh-simpledb @ git+https://github.com/complex-human-data-hub/SimpleDB.git@v1.0.0
 
 # 2.x lineage (other projects)
-chdh-simpledb @ git+https://github.com/bens/simpledb.git@v2.0.0
+chdh-simpledb @ git+https://github.com/complex-human-data-hub/SimpleDB.git@v2.0.0
 ```
 
 The Python import is the same regardless of version:
